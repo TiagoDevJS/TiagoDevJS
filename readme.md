@@ -39,8 +39,8 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e inovador
 ---
 
 ### 🚀 Projetos em Destaque
-- [ApiBanca de Revistas Online](https://github.com/TiagoDevJS/api_plash): Uma API RESTFULL construída com Node.js e Express, projetada sabia mais...
-- <br/>
+- [Api Banca de Revistas Digital](https://github.com/TiagoDevJS/api_plash): Uma API RESTFULL construída com Node.js e Express, projetada sabia mais...
+- [Projeto 2](link-do-projeto-3): Breve descrição do projeto.
 - [Projeto 3](link-do-projeto-3): Breve descrição do projeto.
 
 ---
