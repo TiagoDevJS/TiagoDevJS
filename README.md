@@ -14,7 +14,7 @@
 <img align="center" alt="Tiago-Express" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> 
 <img align="center" alt="Tiago-NestJS" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 <img align="center" alt="Tiago-Prisma" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<img align="center" alt="Tiago-Tailwind" height="350" width="350" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="center" alt="Tiago-Tailwind" height="250" width="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
  </div>
           
           
