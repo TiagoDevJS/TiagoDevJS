@@ -39,7 +39,7 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e inovador
 ---
 
 ### 🚀 Projetos em Destaque
-- [Projeto 1](link-do-projeto-1): Breve descrição do projeto.
+- [Projeto 1](https://github.com/TiagoDevJS/api_plash): Breve descrição do projeto.
 - [Projeto 2](link-do-projeto-2): Breve descrição do projeto.
 - [Projeto 3](link-do-projeto-3): Breve descrição do projeto.
 
