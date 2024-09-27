@@ -39,8 +39,7 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e inovador
 ---
 
 ### 🚀 Projetos em Destaque
-- [Projeto 1](https://github.com/TiagoDevJS/api_plash): Uma API RESTful construída com Node.js e Express, projetada para gerenciar e fornecer informações sobre uma biblioteca de imagens. A API permite operações como criação, leitura, atualização e exclusão de imagens, além de suportar filtragem e paginação para facilitar a busca de dados. Ideal para aplicações que requerem um backend robusto para manipulação de imagens e dados relacionados.
-- [Projeto 2](link-do-projeto-2): Breve descrição do projeto.
+- [ApiBanca de Revistas Online](https://github.com/TiagoDevJS/api_plash): Uma API RESTFULL construída com Node.js e Express, projetada sabia mais...
 - [Projeto 3](link-do-projeto-3): Breve descrição do projeto.
 
 ---
